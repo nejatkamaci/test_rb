@@ -1,0 +1,4 @@
+REVIEWBOARD_URL = "http://ec2-54-183-105-155.us-west-1.compute.amazonaws.com/"
+REPOSITORY = "zapwireless"
+BRANCH = "master"
+LAND_DEST_BRANCH = "master"
